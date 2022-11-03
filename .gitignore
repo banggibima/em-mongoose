@@ -1,0 +1,10 @@
+# misc
+.env
+.DS_Store
+
+# dependencies
+node_modules
+
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
